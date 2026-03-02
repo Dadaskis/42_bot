@@ -1,7 +1,5 @@
 import psycopg2
 import json
-import uuid
-from datetime import datetime
 
 # Database connection
 conn = psycopg2.connect(database="42bot_data", user="postgres", password="1337")
