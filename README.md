@@ -4,7 +4,7 @@ A Telegram bot that converts natural language questions into SQL queries using A
 
 ## Features
 
-- Natural language processing for database queries in Russian
+- Natural language processing for database queries in any language
 - AI-powered SQL query generation using OpenRouter API
 - Asynchronous architecture with aiogram and asyncpg
 - PostgreSQL database with video statistics and hourly snapshots
