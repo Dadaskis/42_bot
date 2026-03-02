@@ -1,5 +1,3 @@
-Here's a comprehensive GitHub README description for your bot:
-
 # 42_bot - Telegram SQL Query Bot
 
 A Telegram bot that converts natural language questions into SQL queries using AI and returns numerical answers from a PostgreSQL database containing video statistics data.
